@@ -27,7 +27,7 @@ Further work committed to enter for The Glasgow Inform Prize 2025.
 | Profile                                       | Map                                               | Map Point                                  |                      
 
 
-| ![History page](./demo_images/7-history.png) 	| ![Skills page](./demo_images/8-skills.png)      	| ![Log page](./demo_images/9-skills.png)    |
+| ![History page](./demo_images/7-history.png) 	| ![Skills page](./demo_images/8-skills.png)      	| ![Log page](./demo_images/9-log.png)       |
 |-----------------------------------------------|---------------------------------------------------|--------------------------------------------|
 | History                                       | Skills                                            | Log                                        |                   
 
