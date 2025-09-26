@@ -1,53 +1,44 @@
-![BLDR banner](./mobile/assets/images/logo.png)
+![BLDR image](./mobile/assets/images/logo.png)
 
 # BLDR
 
-### A project I made as a group with Ethan Midgley, Max Diven, Kieran Ballard & Jonasz Gofron, for CS317, Mobile App Development with University of Strathclyde
+A climbing based social media app aiming to help foster community and personal skill.
 
-#### 1. Login screen
+Originally created for CS317: Mobile App Development, with University of Strathclyde.
+Further work committed to enter for The Glasgow Inform Prize 2025.
 
-![login](./demo_images/1-login.jpg)
+## Featuring 
 
-#### 2. Register screen
+- Personalising your own BLDR account
+- Tracking and logging your climbs via phone sensors
+- Uploading selected climbs as a post to main page
+- An interactive map, displaying preset and user posted locations
+- A local skills page for quick tips and progression 
 
-![register](./demo_images/2-register.jpg)
 
-#### 3. Home page
+## App Walkthrough 
 
-![homepage](./demo_images/3-homepage.jpg)
+| ![Login page](./demo_images/1-login.png)     	| ![Register page](./demo_images/2-register.png)  	| ![Home page](./demo_images/3-homepage.png) |
+|-----------------------------------------------|---------------------------------------------------|--------------------------------------------|
+| Login                                         | Register                                          | Home                                       |
 
-#### 4. Reply to comment
+| ![Profile page](./demo_images/4-profile.png) 	| ![Map page](./demo_images/5-map.png)          	| ![Map point](./demo_images/6-mappoint.png) |
+|-----------------------------------------------|---------------------------------------------------|--------------------------------------------|
+| Profile                                       | Map                                               | Map Point                                  |                      
 
-![reply](./demo_images/4-reply.jpg)
 
-#### 5. Skills page
+| ![History page](./demo_images/7-history.png) 	| ![Skills page](./demo_images/8-skills.png)      	| ![Log page](./demo_images/9-skills.png)    |
+|-----------------------------------------------|---------------------------------------------------|--------------------------------------------|
+| History                                       | Skills                                            | Log                                        |                   
 
-![skills](./demo_images/5-skills.jpg)
+| ![Post page](./demo_images/10-post.png)      	| ![Download page](./demo_images/11-download.png)   |
+|-----------------------------------------------|---------------------------------------------------|
+| Post                                          | Download                                          | 
 
-#### 6. Skill view
 
-![skillindividual](./demo_images/6-skillsindividual.jpg)
+## Contributors
 
-#### 7. Map screen
-
-![map](./demo_images/7-map.jpg)
-
-#### 8. Map post view
-
-![mappost](./demo_images/8-mappost.jpg)
-
-#### 9. Map location view
-
-![maplocale](./demo_images/9-maplocale.jpg)
-
-#### 10. Log screen
-
-![log](./demo_images/10-log.jpg)
-
-#### 11. History screen
-
-![history](./demo_images/11-history.jpg)
-
-#### 12. Post screen
-
-![post](./demo_images/12-post.jpg)
+- [Ethan Midgley](https://github.com/ethanmidgley)
+- [Mux Diven](https://github.com/muxdiven)
+- [Jonasz Gofron](https://github.com/jonaszg)
+- Kieran Ballard
