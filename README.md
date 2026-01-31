@@ -15,6 +15,9 @@ Further work committed to enter for The Glasgow Inform Prize 2025.
 - An interactive map, displaying preset and user posted locations
 - A local skills page for quick tips and progression 
 
+## Inform Prize Advert
+Here(https://youtu.be/mdq8Q-UisjI?si=S0pEjc-CGWBKYjFK)
+
 
 ## App Walkthrough 
 
