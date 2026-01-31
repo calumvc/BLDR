@@ -18,7 +18,6 @@ Further work committed to enter for The Glasgow Inform Prize 2025.
 ## Inform Prize Advert
 Here(https://youtu.be/mdq8Q-UisjI?si=S0pEjc-CGWBKYjFK)
 
-
 ## App Walkthrough 
 
 | ![Login page](./demo_images/1-login.png)     	| ![Register page](./demo_images/2-register.png)  	| ![Home page](./demo_images/3-homepage.png) |
