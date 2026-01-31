@@ -16,7 +16,7 @@ Further work committed to enter for The Glasgow Inform Prize 2025.
 - A local skills page for quick tips and progression 
 
 ## Inform Prize Advert
-Here(https://youtu.be/mdq8Q-UisjI?si=S0pEjc-CGWBKYjFK)
+[Here](https://youtu.be/mdq8Q-UisjI?si=S0pEjc-CGWBKYjFK)
 
 ## App Walkthrough 
 
